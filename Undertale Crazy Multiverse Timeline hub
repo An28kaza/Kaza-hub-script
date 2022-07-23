@@ -1,0 +1,3 @@
+-- Made by An28kaza
+-- Create private server before use
+loadstring(game:HttpGet("https://pastebin.com/raw/ySae3MdC"))()
