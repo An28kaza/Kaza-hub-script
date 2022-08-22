@@ -1,0 +1,6 @@
+local gameid = game.PlaceId
+if (gameid == 9078157075) then
+loadstring(game:HttpGet("https://pastebin.com/raw/gt5EaMvP"))()
+
+if (gameid == 6913960180) then
+loadstring(game:HttpGet("https://pastebin.com/raw/y9HZfwjP", true))()
